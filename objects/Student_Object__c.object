@@ -224,13 +224,5 @@
         <trackTrending>false</trackTrending>
         <type>Phone</type>
     </fields>
-    <fields>
-        <fullName>Student_city__c</fullName>
-        <externalId>false</externalId>
-        <label>city</label>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-    </fields>
+
 </CustomObject>
